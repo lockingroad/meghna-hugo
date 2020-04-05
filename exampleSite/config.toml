@@ -20,18 +20,6 @@ weight = 2
 [[menu.main]]
 URL = "contact"
 name = "联系"
-weight = 6
-[[menu.main]]
-URL = "blog"
-name = "文档"
-weight = 5
-[[menu.main]]
-URL = "pricing"
-name = "价格"
-weight = 4
-[[menu.main]]
-URL = "team"
-name = "公司"
 weight = 3
 [[menu.main]]
 URL = "services"

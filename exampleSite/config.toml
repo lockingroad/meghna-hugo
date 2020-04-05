@@ -18,37 +18,33 @@ languageCode = "en-en"
 languageName = "En"
 weight = 2
 [[menu.main]]
-URL = "about"
-name = "About Us"
-weight = 1
-[[menu.main]]
-URL = "services"
-name = "Service"
-weight = 2
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 3
-[[menu.main]]
-URL = "team"
-name = "Team"
-weight = 4
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-weight = 5
-[[menu.main]]
-URL = "blog"
-name = "Blog"
+URL = "contact"
+name = "联系"
 weight = 6
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 7
+URL = "blog"
+name = "文档"
+weight = 5
+[[menu.main]]
+URL = "pricing"
+name = "价格"
+weight = 4
+[[menu.main]]
+URL = "team"
+name = "公司"
+weight = 3
+[[menu.main]]
+URL = "services"
+name = "服务"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "关于我们"
+weight = 1
 [[menu.static]]
 URL = "https://themefisher.com/"
 name = "Themefisher"
-weight = 7
+weight = 1
 [params]
 author = "ranlzz"
 description = "水箱玻璃钢大全"

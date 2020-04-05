@@ -16,16 +16,16 @@ portfolio:
     content: 冷却塔
     link: ''
   - name: 格栅
-    image: images/portfolio/portfolio-3.jpg
-    image_webp: images/portfolio/portfolio-3.webp
+    image: images/geshan1.jpg
+    image_webp: images/geshan1.jpg
     categories:
     - design
     - development
     content: 格栅
     link: "#"
   - name: 风机
-    image: images/portfolio/portfolio-4.jpg
-    image_webp: images/portfolio/portfolio-4.webp
+    image: images/fgji.jpg
+    image_webp: images/fgji.jpg
     categories:
     - photography
     - development

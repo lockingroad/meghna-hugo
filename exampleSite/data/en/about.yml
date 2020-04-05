@@ -5,11 +5,10 @@ about:
   about_item:
   - icon: ti-ruler-pencil
     title: 质量
-    content: 质量第一
+    content: 品控的保证是公司的根本任务。
   - icon: ti-cup
     title: 专业
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+    content: 成员有10年以上的行业经验。
   - icon: ti-thought
     title: 可信赖
     content: 用户放在首位的可信赖团队。

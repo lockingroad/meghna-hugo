@@ -10,7 +10,7 @@ contentDir = "content/chinese"
 home = "Home"
 languageCode = "zh-CN"
 languageName = "中文"
-weight = 1
+weight = "3"
 [Languages.fr]
 contentDir = "content/english"
 home = "Accueil"

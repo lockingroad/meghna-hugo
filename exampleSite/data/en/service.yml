@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: Our Services
+  title: 服务
   service_item:
   - name: 水箱制作
     icon: ti-world

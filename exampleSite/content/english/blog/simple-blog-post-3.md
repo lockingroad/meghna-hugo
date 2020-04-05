@@ -1,5 +1,5 @@
 ---
-title: Simple Blog Post
+title: 水箱工艺流程
 date: 2018-09-12T06:52:36+00:00
 image_webp: images/blog/blog-post-1.webp
 image: images/blog/blog-post-1.jpg

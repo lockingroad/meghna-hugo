@@ -12,10 +12,10 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
-contentDir = "content/french"
+contentDir = "content/chinese"
 home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
+languageCode = "zh-CN"
+languageName = "zh"
 weight = 2
 [[menu.main]]
 URL = "about"

@@ -1,20 +1,18 @@
 ---
 portfolio:
   enable: true
-  title: Our Works
+  title: 产品
   portfolio_item:
   - name: 水箱
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
-    categories:
-    - design
+    categories: []
     content: 水箱
     link: https://themefisher.com
   - name: 冷却塔
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
-    categories:
-    - development
+    categories: []
     content: 冷却塔
     link: ''
   - name: 格栅

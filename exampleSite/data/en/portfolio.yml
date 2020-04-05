@@ -4,8 +4,8 @@ portfolio:
   title: 产品
   portfolio_item:
   - name: 水箱
-    image: images/portfolio/portfolio-1.jpg
-    image_webp: images/portfolio/portfolio-1.webp
+    image: images/shuixiang1.jpg
+    image_webp: images/shuixiang1.jpg
     categories: []
     content: 水箱
     link: https://themefisher.com
